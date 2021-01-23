@@ -1,0 +1,33 @@
+﻿<hc:Window x:Class="ADBM.Dialogs.DialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:hc="https://handyorg.github.io/handycontrol"
+        mc:Ignorable="d"
+        Title="Info" 
+        WindowStartupLocation="CenterScreen"
+        Style="{StaticResource WindowWin10}"
+        ShowTitle="False"
+        Height="180"
+        Width="320" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="label" Content="Incorrect SignIn information. Please try again!" HorizontalAlignment="Left" Margin="20,30,0,0" VerticalAlignment="Top" Width="280"/>
+        <Button x:Name="closebtn" Content="Ok" HorizontalAlignment="Left" Margin="40,80,0,0" VerticalAlignment="Top" Height="50" Foreground="White" Width="240" IsCancel="True" Click="closebtn_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="-90" CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FF5479F5" Offset="1"/>
+                    <GradientStop Color="{DynamicResource MainThem}"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</hc:Window>

@@ -1,0 +1,72 @@
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\ADBM.exe
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\ADBM.pdb
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\HandyControl.dll
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\HandyControl.xml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\en\HandyControl.resources.dll
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\fa\HandyControl.resources.dll
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\fr\HandyControl.resources.dll
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\ko-KR\HandyControl.resources.dll
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\ru\HandyControl.resources.dll
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\tr\HandyControl.resources.dll
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.csprojAssemblyReference.cache
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\MainWindow.baml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\App.baml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\MainWindow.g.cs
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\App.g.cs
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM_MarkupCompile.cache
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.g.resources
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.csproj.CoreCompileInputs.cache
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.csproj.CopyComplete
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.exe
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.pdb
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\ADBM.exe.config
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\Login.g.cs
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\Login.baml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\Dialogs\DialogWindow.baml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\Dialogs\DialogWindow.g.cs
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\MakeSale.baml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\MakeSale.g.cs
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ChequeReturn.baml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ChequeReturn.g.cs
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ItemReturn.baml
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ItemReturn.g.cs
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\ADBM.exe.manifest
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\bin\Debug\ADBM.application
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.exe.manifest
+C:\Users\Srilal Sachintha\source\repos\ADBM\ADBM\obj\Debug\ADBM.application
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\ADBM.exe.config
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\ADBM.exe.manifest
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\ADBM.application
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\ADBM.exe
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\ADBM.pdb
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\HandyControl.dll
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\HandyControl.xml
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\en\HandyControl.resources.dll
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\fa\HandyControl.resources.dll
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\fr\HandyControl.resources.dll
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\ko-KR\HandyControl.resources.dll
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\ru\HandyControl.resources.dll
+C:\Users\dehemi\Desktop\ADBM\ADBM\bin\Debug\tr\HandyControl.resources.dll
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.csprojAssemblyReference.cache
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ChequeReturn.baml
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\Dialogs\DialogWindow.baml
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ItemReturn.baml
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\Login.baml
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\MainWindow.baml
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\MakeSale.baml
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\App.baml
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ChequeReturn.g.cs
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\Dialogs\DialogWindow.g.cs
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ItemReturn.g.cs
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\Login.g.cs
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\MainWindow.g.cs
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\MakeSale.g.cs
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\App.g.cs
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM_MarkupCompile.cache
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.g.resources
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.csproj.CoreCompileInputs.cache
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.exe.manifest
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.application
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.csproj.CopyComplete
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.exe
+C:\Users\dehemi\Desktop\ADBM\ADBM\obj\Debug\ADBM.pdb
